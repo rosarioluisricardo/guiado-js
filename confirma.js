@@ -1,0 +1,1 @@
+confirm("Você tem certeza que quer apagar o arquivo?\n estaopção nçao podera ser desfeita")
